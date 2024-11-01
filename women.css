@@ -1,0 +1,90 @@
+.carousel, .slide {
+    width: 300px;
+    height: 200px;
+}
+
+.d-block0, .d-block, .d-block1, .d-block2, .d-block3, .d-block4 {
+    width: 200px;
+}
+
+.d-block0 {
+    height: 150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+   
+}
+
+.d-block {
+    height: 200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+  
+}
+
+.d-block1 {
+    height: 200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+   
+}
+
+.d-block2 {
+    height: 200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+  
+}
+
+
+.d-block3 {
+    height: 150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+  
+   
+}
+
+.d-block4 {
+    height: 150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+ 
+
+}
+
+.column {
+    float:center;
+    width: 33.33%;
+    padding-right: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+.box {
+    background-color: rgb(234, 231, 231);
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: 30px;
+    padding: 25px;
+    border-radius: 10px;
+    border: dotted, 2px, grey;
+}
+
+#swipe {
+    text-decoration-color: white;
+}

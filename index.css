@@ -1,0 +1,52 @@
+
+
+.title {
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: -6px;
+    color: rgb(234, 234, 234);
+    
+    font-size: 200px
+}
+
+.first {
+    margin-top: 50px;
+    margin-bottom: -35px;
+    margin-left:40px;
+}
+
+.second {
+    margin-top: 0px;
+    margin-left: 130px;
+}
+
+.p {
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+    color: rgb(234, 234, 234);
+    font-size: 30px;
+    font-weight:lighter;
+}
+
+.name {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.create {
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align:center;
+}
+
+.img {
+    margin-left: 50px;
+    width: 400px;
+    height: 400px;
+    transform: rotate(5deg);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    
+  }
